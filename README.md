@@ -1,8 +1,5 @@
 # Ejercicio N° 8
 ## Desarrollo de Software
-### 58266 - Zurita, Eduardo Ezequias - eduardozurita108@gmail.com
-### 57618 - Diaz Orellana, Ivan Rodrigo - ivandiaz.arg.dev@gmail.com
-### 43765 - Corbalan, Dante Mariano - mc017c@gmail.com
 ### Herencia y propiedades
 
 1. Realizar una bifurcación (fork) del [repositorio](https://github.com/ing-software-frt-utn/dsw2025ej8)
